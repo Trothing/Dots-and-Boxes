@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="https://dots-and-boxes-three.vercel.app/"><b>Live demo</b></a>
+</p>
+
+<p align="center">
   <img src="docs/screenshots/01-game.png" alt="Game in progress against the hard computer" width="900">
 </p>
 
